@@ -1,1 +1,8 @@
 vendor/
+audible-silence-backend
+.idea
+as_core
+start.sh
+login.sh
+db/Dockerfile
+conf.yaml
